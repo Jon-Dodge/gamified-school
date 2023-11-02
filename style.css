@@ -1,12 +1,8 @@
 h1 {
     font-style: italic;
     color: blue;
-    
+    background-color:burlywood
     }
-
-    .main-body {
-        border: 1px solid black;
-        width: 100px;
-    }
-        
+body {
+    background-color:coral
 }
